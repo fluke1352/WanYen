@@ -1,0 +1,63 @@
+body{
+    margin: 20px;
+  }
+  
+  .house{
+    -webkit-background-size: cover;
+    background-size: cover;
+    overflow: hidden;
+    width: 100vw;
+    height: 100vh;
+    top:-100;
+  }
+  
+  .boatred{
+    position: relative;
+    animation: red 1s infinite linear 0.8s alternate;
+  }
+  
+  .boatblue{
+    position: relative;
+    transform: translate(20vw,30vh);
+    animation: blue 1s infinite linear 1.5s alternate;
+  }
+  .boatgreen{
+    position: relative;
+    transform: translate(50vw,26vh);
+    animation: green 1.5s infinite linear 1.7s alternate;
+  }
+  .boatpink{
+    position: relative;
+    transform: translate(-5vw,10vh);
+    animation: pink 1s infinite linear 0.3s alternate;
+  }
+  .boatblack{
+    position: relative;
+    transform: translate(-10vw,10vh);
+    animation: black 2s infinite linear 0.3s alternate;
+  }
+
+  @keyframes red{
+    0%{ transform: translateY(0vh);}
+    100%{ transform: translateY(5vh);}
+  }
+  
+  @keyframes blue{
+    0%{ transform: translate(20vw,30vh);}
+    100%{ transform: translate(20vw,35vh);}
+  }
+  
+  @keyframes green{
+    0%{ transform: translate(50vw,26vh);}
+    100%{ transform: translate(45vw,26vh);}
+  }
+
+  @keyframes pink{
+    0%{ transform: translate(-5vw,10vh);}
+    100%{ transform: translate(-5vw,5vh);}
+  }
+
+  @keyframes black{
+    0%{ transform: translate(5vw,10vh);}
+    100%{ transform: translate(10vw,10vh);}
+  } 
