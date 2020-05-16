@@ -38,7 +38,7 @@
         <!--  ocean-->
    <polygon points="2,254 75,253 74,280" style="fill:#00A2E8"/><!--  ocean1-->
    <polygon points="2,254 74,280 1,674" style="fill:#99D9EA"/><!--  ocean2-->
-   <polygon points="74,280 287,468 139,573 1,674"style="fill:#60CFFF"/><!--  ocean3-->
+   <polygon points="74,280 287,468 139,573 1,674"style="fill:#60CFFF"/>
    <polygon points="139,573 1,674 369,796" style="fill:#99D9EA"/><!--  ocean4-->
    <polygon points="1,674 369,796 1,798" style="fill:#00A2E8"/><!--  ocean5-->
    <polygon points="287,468 139,573 207,640 412,679" style="fill:#00A2E8"/><!--  ocean6-->
