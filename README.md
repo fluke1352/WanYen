@@ -1,17 +1,17 @@
-Multi SVG Project
+### Multi SVG Project Sydney Opera House
 
 # Presentation
 [Click here](https://youtu.be/NQkaTZed058)
 
 # Code
 ### HTML
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css" />
-    <title>Sydney Opera House</title>
 </head>
 <body>
     <svg class="house" viewbox="0 0 1200 800"> 
