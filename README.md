@@ -381,7 +381,9 @@ Multi SVG Project
 </body>
 </html>
 
-  CSS
+### CSS
+> Animation
+```css
 
 body{
     margin: 20px;
@@ -450,7 +452,7 @@ body{
 ## Members
 
   
-  | | 62070144 |  |  |  |
+  | 62070032 | 62070035 | 62070144 | 62070171 | 62070185 |
   | --- | --- | --- | --- | --- |
-  | | Phawit Sapthaweekarn |  |   |  |
+  | Jirayu tubtimtong | Jirayuth Dokkathin | Phawit Sapthaweekarn | Woot Charusupat | Supanut Theeraraktrakul |
   
