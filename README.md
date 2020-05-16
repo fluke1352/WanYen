@@ -8,6 +8,16 @@
 
 # Code
 ### HTML
+> SVG
+```html
+<!doctype html>
+<html>
+<head>
+
+<link rel="stylesheet" href="chichencss.css" />
+
+</head>
+<body>
   <svg class="house" viewbox="0 0 1200 800"> 
    <!--  sky-->
    <g id="sky" mode="day" onclick="changemode('night')">
@@ -371,7 +381,10 @@
     <polygon points="177,512 181,512 192,522 166,520" style="fill:#A5A5A5"/>
   </g>
 
-</svg>     
+</svg> 
+  
+</body>
+</html>
 
 ### CSS
 > Animation
