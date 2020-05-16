@@ -454,5 +454,5 @@ body{
   
   | 62070032 | 62070035 | 62070144 | 62070171 | 62070185 |
   | --- | --- | --- | --- | --- |
-  | Jirayu tubtimtong | Jirayuth Dokkathin | Phawit Sapthaweekarn | Woot Charusupat | Supanut Theeraraktrakul |
+  | Jirayu Tubtimtong | Jirayuth Dokkathin | Phawit Sapthaweekarn | Woot Charusupat | Supanut Theeraraktrakul |
   
