@@ -4,20 +4,10 @@
 [Click here](https://youtu.be/NQkaTZed058)
 
 # Netify
-[Click here](https://youtu.be/NQkaTZed058)
+[Click here](https://eloquent-darwin-8b531b.netlify.app)
 
 # Code
 ### HTML
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="style.css" />
-  <title>Sydney Opera House</title>
-</head>
-<body>
   <svg class="house" viewbox="0 0 1200 800"> 
    <!--  sky-->
    <g id="sky" mode="day" onclick="changemode('night')">
@@ -382,8 +372,6 @@
   </g>
 
 </svg>     
-</body>
-</html>
 
 ### CSS
 > Animation
